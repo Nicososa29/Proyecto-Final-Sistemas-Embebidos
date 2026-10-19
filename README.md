@@ -1,5 +1,4 @@
 # Proyecto-Final-Sistemas-Embebidos
-Proyecto Final Sistemas Embebidos
 # 🚨 Alarma de Proximidad con Control Remoto (ESP32 + MQTT)
 
 Sistema de alarma basado en un **ESP32** y un sensor ultrasónico **HC-SR04**
