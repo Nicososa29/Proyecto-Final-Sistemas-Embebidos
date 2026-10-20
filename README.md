@@ -30,6 +30,7 @@ Proyecto desarrollado con **MicroPython** y simulado en **Wokwi**.
 | Sirena / Buzzer (PWM) | GPIO 5 |
 | LED de alarma (detección) | GPIO 4 |
 | LED de estado (alarma activada) | GPIO 22 |
+
 ![Circuito](Circuito%20SE.jpeg)
 
 ## Feeds MQTT (Adafruit IO)
